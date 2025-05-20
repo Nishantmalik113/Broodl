@@ -13,6 +13,8 @@ export default function Logout() {
     }
 
   return (
-    <Button text='Logout' dark clickHandler={logout} />
+    <Link href={'/'}>
+      <Button text='Logout' dark clickHandler={logout} />
+    </Link>
   )
 }
