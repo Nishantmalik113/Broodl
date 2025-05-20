@@ -4,7 +4,7 @@ A full-stack Next.js app that helps users track and reflect on their mood daily 
 
 ## 🌐 Live Demo
 
-👉 [https://broodl-nishant.netlify.app/dashboard](https://broodl-nishant.netlify.app/)
+👉 [https://broodl-nishant.netlify.app/](https://broodl-nishant.netlify.app/)
 
 ## 📌 Features
 
