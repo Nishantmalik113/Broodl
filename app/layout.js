@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
   const footer = (
     <footer className="p-4 sm:p-8 grid place-items-center">
       <p className={'text-indigo-500 ' + Fugaz.className}>
-        Created With 💛
+        Created By <abbr title="Github Repo"><a href="www.github.com/nishantmalik113/Broodl" target="black" className="text-indigo-500 hover:underline ">Nishant</a></abbr> With 💛
       </p>
     </footer>
   )
